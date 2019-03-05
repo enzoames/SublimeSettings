@@ -1,0 +1,41 @@
+[
+  {
+    "rulers":
+    [
+      120
+    ],
+    "ensure_newline_at_eof_on_save": true,
+    "tab_completion": false,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "file_exclude_patterns":
+    [
+      "*.pickle"
+    ],
+    "folder_exclude_patterns":
+    [
+      ".arcconfig",
+      ".buildgen",
+      ".bundle",
+      ".fortune",
+      ".fsconfig.json",
+      ".fsenv",
+      ".git",
+      ".gitignore",
+      ".gitshed",
+      ".local_artifact_cache",
+      ".pants.bootstrap",
+      ".pants.d",
+      ".pantsenv",
+      ".pex",
+      ".pvenvs",
+      ".svn",
+      ".wheelhouse",
+      "build",
+      "generated_resources",
+      "scripts/IntelliJ",
+      "target"
+    ],
+  },
+]

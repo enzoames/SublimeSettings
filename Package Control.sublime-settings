@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"ayu",
+		"Babel",
+		"BracketHighlighter",
+		"DiffView",
+		"FileHeader",
+		"JsPrettier",
+		"LESS",
+		"Multi Select Alphabetizer",
+		"Package Control",
+		"Soy",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Text Pastry"
+	]
+}
