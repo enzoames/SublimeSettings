@@ -11,13 +11,19 @@
 		"BracketHighlighter",
 		"DiffView",
 		"FileHeader",
+		"GitGutter",
+		"JSCustom",
 		"JsPrettier",
 		"LESS",
 		"Multi Select Alphabetizer",
+		"Naomi",
 		"Package Control",
 		"Soy",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeREPL",
-		"Text Pastry"
+		"Text Pastry",
+		"ThriftSyntax"
 	]
 }

@@ -1,0 +1,18 @@
+{
+    "configurations": {
+        "My Config": {
+            "custom_templates": {
+                "tags": {
+                    "style": "scope:source.css"
+                }
+            }
+          }
+    },
+    "defaults": {
+      "custom_template_tags": false,
+      "flow_types": false,
+      "jsx": true,
+    },
+    "auto_build": true,
+    "jsx_close_tag": true
+}

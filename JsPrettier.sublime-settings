@@ -1,15 +1,16 @@
 {
-    "auto_format_on_save": false,
-    "prettier_options": {
-        "printWidth": 120,
-        "tabWidth": 2,
-        "singleQuote": true,
-        "trailingComma": "none",
-        "bracketSpacing": true,
-        "jsxBracketSameLine": false,
-        "parser": "flow",
-        "semi": true,
-        "tabs": false
-    },
-    "prettier_cli_path": "/Users/eames/.nvm/versions/node/v9.0.0/bin/prettier"
+  "auto_format_on_save": true,
+  "prettier_options": {
+      "printWidth": 120,
+      "tabWidth": 2,
+      "singleQuote": true,
+      "trailingComma": "none",
+      "bracketSpacing": true,
+      "jsxBracketSameLine": false,
+      "parser": "flow",
+      "semi": true,
+      "tabs": false
+  },
+  "prettier_cli_path": "/Users/eames/.nvm/versions/node/v9.0.0/bin/prettier",
+  "node_path": "/Users/eames/.nvm/versions/node/v9.0.0/bin/node"
 }
